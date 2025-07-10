@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'DYMO Label Software'
 
 
 # The full version, including alpha/beta/rc tags
